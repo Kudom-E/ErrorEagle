@@ -1,4 +1,4 @@
-## Setup
+# Setup
 
 1. Copy the `.env.example` to `.env`:
    ```bash
